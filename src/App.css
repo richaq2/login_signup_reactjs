@@ -1,0 +1,24 @@
+.signup {
+  width: 30%;
+  margin-top: auto;
+  margin-bottom: auto;
+  
+}
+.label {
+  text-align: l;
+}
+h2{
+  padding-bottom: 20px;
+}
+.signup-content {
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.container {
+  border-radius: 20px;
+  border-style: solid;
+  border-color: azure;
+  background-color: rgb(254, 254, 254);
+
+}
